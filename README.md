@@ -11,3 +11,5 @@ Here are some details about the project and what one can find in the report or r
 7. As majority of datasets do not already have optimal solutions (the dataset we use have an optimal solution given) heuristic methods like Two-opt, City-swap, genetic, Simulated Annealing algorithms are taken into account to get a soution in order to compare the results of Pointer Networks with Transformers.
 8. An explanation on Pointer Networks, Transformers Architecture and how both can be merged in order to get a working algorithm.
 9. Conclusion - Transformers performed well in the training set but could not generalize well.
+
+[2023]
